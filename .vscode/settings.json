@@ -1,0 +1,16 @@
+{
+    "cSpell.customDictionaries": {
+        "brand": {
+            "name": "Brand",
+            "path": "${workspaceFolder}/.cspell/brand-words.cspell",
+            "addWords": true,
+            "scope": "workspace"
+        },
+        "extended": {
+            "name": "Extended English",
+            "path": "${workspaceFolder}/.cspell/extended-english.cspell",
+            "addWords": true,
+            "scope": "workspace"
+        },
+    },
+}

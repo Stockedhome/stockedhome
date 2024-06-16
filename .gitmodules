@@ -1,0 +1,12 @@
+[submodule "assets"]
+	path = assets
+	url = https://github.com/Stockedhome/stockedhome-assets.git
+[submodule "application"]
+	path = application
+	url = https://github.com/Stockedhome/stockedhome-application.git
+[submodule "documentation"]
+	path = documentation
+	url = https://github.com/stockedhome/stockedhome-documentation.git
+[submodule "marketing-site"]
+	path = marketing-site
+	url = https://github.com/Stockedhome/stockedhome-marketing-site.git
