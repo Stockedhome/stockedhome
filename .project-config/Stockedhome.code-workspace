@@ -1,0 +1,48 @@
+{
+	"folders": [
+		{
+			"path": "../application",
+			"name": "Stockedhome Application"
+		},
+		{
+			"path": "../documentation",
+			"name": "Stockedhome Documentation"
+		},
+		{
+			"path": "../marketing-site",
+			"name": "Stockedhome Marketing Site"
+		},
+		{
+			"path": ".",
+			"name": "Project Configuration"
+		}
+	],
+	"settings": {
+		"cSpell.customDictionaries": {
+			"brand": {
+				"name": "Branding",
+				"path": "${workspaceFolder:Project Configuration}/cspell/branding.cspell",
+				"addWords": true,
+				"scope": "workspace"
+			},
+			"extended": {
+				"name": "Extended English",
+				"path": "${workspaceFolder:Project Configuration}/cspell/extended-english.cspell",
+				"addWords": true,
+				"scope": "workspace"
+			},
+			"names": {
+				"name": "Names",
+				"path": "${workspaceFolder:Project Configuration}/cspell/names.cspell",
+				"addWords": true,
+				"scope": "workspace"
+			},
+			"acceptable-slang": {
+				"name": "Acceptable Slang",
+				"path": "${workspaceFolder:Project Configuration}/cspell/acceptable-slang.cspell",
+				"addWords": true,
+				"scope": "workspace"
+			},
+    	},
+	}
+}
