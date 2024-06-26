@@ -9,6 +9,7 @@ etag
 flowtype
 keypair
 minifier
+pooler
 rehype
 RPID
 strikethrough

@@ -1,0 +1,15 @@
+{
+    "recommendations": [
+        "streetsidesoftware.code-spell-checker",
+        "ms-azuretools.vscode-docker",
+        "redhat.vscode-yaml",
+        "vitest.explorer",
+        "msjsdiag.vscode-react-native",
+        "prisma.prisma",
+        "yoavbls.pretty-ts-errors",
+        "linbudu.pnpm-vscode-helper",
+        "unifiedjs.vscode-mdx",
+        "github.vscode-github-actions",
+        "exodiusstudios.comment-anchors"
+    ]
+}

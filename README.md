@@ -4,9 +4,11 @@ Stockedhome is a home management app to bring the power of meal planning and sto
 
 # This Monorepo
 This monorepo is composed entirely of submodules. Each submodule is a separate part of Stockedhome. The submodules are as follows:
-* `application` - The frontend and backend of Stockedhome, built with Next.js, Expo, and Solito
-  * API routes can be found in `application/platforms/next/app/api`
-* `marketing-site` - The marketing site for Stockedhome, built with Next.js
+* `application` ([Stockedhome/stockedhome-application](https://github.com/Stockedhome/stockedhome-application)) - The frontend and backend of Stockedhome, built with [Next.js](https://nextjs.org/), [Expo](https://expo.dev/), and [Solito](https://solito.dev/) on top of [Supabase](https://supabase.com/)
+  * API routes can be found in `application/src/lib/trpc` and are exposed through the Next.js site
+* `assets` ([Stockedhome/stockedhome-assets](https://github.com/Stockedhome/stockedhome-assets)) - Assets for Stockedhome. SVGs made with [Inkscape](https://inkscape.org/)
+* `documentation` ([Stockedhome/stockedhome-documentation](https://github.com/Stockedhome/stockedhome-documentation)) - The marketing site for Stockedhome, built with Next.js
+* `marketing-site` ([Stockedhome/stockedhome-marketing-site](https://github.com/Stockedhome/stockedhome-marketing-site)) - The marketing site for Stockedhome, built with [Next.js](https://nextjs.org/)
 
 # Stockedhome In Detail
 

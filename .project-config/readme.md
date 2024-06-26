@@ -1,1 +1,1 @@
-W:/GitRepos/stockedhome/README.md
+../README.md
